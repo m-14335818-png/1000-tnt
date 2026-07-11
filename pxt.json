@@ -1,5 +1,6 @@
 {
     "name": "1000 tnt",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
